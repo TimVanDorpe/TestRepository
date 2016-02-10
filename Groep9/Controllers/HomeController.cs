@@ -15,7 +15,7 @@ namespace Groep9.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Changes";
+            ViewBag.Message = "Wijzigingen";
 
             return View();
         }
